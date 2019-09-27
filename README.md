@@ -39,7 +39,7 @@ TurtleCoin (TRTL) - TRTLuzcHQu2Z3QotVB4C7yihoN4Kw2fhzMwF2DWVVK2AhGWaBZhsUJhWsG7z
 *Applications built for certain blockchain projects.*
 
 - [Oscillate: CLI Block Explorer](https://github.com/pxckets/cli-blockexplorer)
-- [Turtlecoin (and it's forks): Network stats bot(https://github.com/TheDevMinerTV/trtl-network-stats)
+- [Turtlecoin: Network stats bot](https://github.com/TheDevMinerTV/trtl-network-stats) - Discord Bot
 
 ### Blockchain
 *A list of promising projects to dig your rig into.*
