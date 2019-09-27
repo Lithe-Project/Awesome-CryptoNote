@@ -24,7 +24,7 @@ Many projects are derived from forks but none shall be listed if they're mere cl
 
 ```
 AmityCoin (XAM) - amitYjRzkZMNcAGji6BoRDiDax71h2pJrfyQizXnttUHKxNxqGJDZWtESaabbSjRQD5WhyDey4qn9XZpFcAgxxTg5mtJTF9jTM 
-ArQma (ArQ) - ar2mqMg2SUYVUeV9vzSQuyRurKUKrfVbzWMd5AArDAEy381zMxqHAnq7e6DGLjMQwS1zoU2utuW83SFYJmYTS4sY2Ams1V6nv
+ArQma (ARQ) - ar2mqMg2SUYVUeV9vzSQuyRurKUKrfVbzWMd5AArDAEy381zMxqHAnq7e6DGLjMQwS1zoU2utuW83SFYJmYTS4sY2Ams1V6nv
 Bitcoin (BTC) - 39xSwR27rAEU1KDPuYL7yQY2TJFG2HFBn4
 Doge (DOGE) - DK2TjjQDxjsQkFDGtAe5VDMM4ZN5wnDB6V
 Lethean (LTHN) - NaWe5B5NqvZ3TV2Mj1pxYtTgrnTBwQDMDNtqVzMR6Xa5ejxu6hbi6KULHTqd732ebc5qTHvKXonokghUBd3pjLa8czovfrW1G561vPanSPRh
@@ -44,7 +44,7 @@ TurtleCoin (TRTL) - TRTLuzcHQu2Z3QotVB4C7yihoN4Kw2fhzMwF2DWVVK2AhGWaBZhsUJhWsG7z
 *A list of promising projects to dig your rig into.*
 
 - [AmityCoin (XAM)](https://gitlab.com/amity-project/amity) - **CPU only**
-- [ArQma (ArQ)](https://github.com/arqma/arqma)
+- [ArQma (ARQ)](https://github.com/arqma/arqma)
 - [Loki (LOKI)](https://github.com/loki-project/loki)
 - [Nerva (XNV)](https://bitbucket.org/nerva-project/nerva) - **CPU only**
 - [Oscillate (OSL)](https://github.com/oscillate-coin/oscillate)
