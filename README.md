@@ -38,17 +38,12 @@ Many projects are derived from forks but none shall be listed if they're mere cl
 
 ### Application
 
-<<<<<<< HEAD
-_Applications built for certain blockchain projects._
-
 -   [Oscillate: CLI Block Explorer](https://github.com/pxckets/cli-blockexplorer)
-=======
-- [Oscillate: CLI Block Explorer](https://github.com/pxckets/cli-blockexplorer)
-- [Turtlecoin: Network stats bot](https://github.com/TheDevMinerTV/trtl-network-stats) - Discord Bot
->>>>>>> 1ce934dd046a1fbe4f98c4e996c412be22c9ec13
+-   [Turtlecoin: Network stats bot](https://github.com/TheDevMinerTV/trtl-network-stats) - Discord Bot
 
 ### Blockchain
 
+``
 _A list of promising projects to dig your rig into._
 
 -   [AmityCoin (XAM)](https://gitlab.com/amity-project/amity) - **CPU only**
@@ -111,8 +106,8 @@ _3rd party software to assist mining assets._
 -   [Vulkan XMR Miner](https://github.com/enerc/VulkanXMRMiner)
 -   [XMR-Stak](https://github.com/fireice-uk/xmr-stak)
 -   [XMRig](https://github.com/xmrig/xmrig)
--   [XMRig - Nvidia](https://github.com/xmrig/xmrig-nvidia)
--   [XMRig - AMD](https://github.com/xmrig/xmrig-amd)
+    -   [XMRig - Nvidia](https://github.com/xmrig/xmrig-nvidia)
+    -   [XMRig - AMD](https://github.com/xmrig/xmrig-amd)
 
 * * *
 
@@ -139,8 +134,6 @@ _Access your assets anywhere._
 
 _Applications, games, resources and other things built and/or maintained by CryptoNote developers._
 
--   [DecentraChat](https://github.com/lithyriolu/decentrachat)
--   [LithyRiolu](https://github.com/lithyriolu)
--   [The Lithe Project™](https://github.com/lithe-project)
+-   [DecentraChat](https://github.com/lithyriolu/decentrachat) - [LithyRiolu](https://github.com/lithyriolu) - [The Lithe Project™](https://github.com/lithe-project)
 
 * * *
