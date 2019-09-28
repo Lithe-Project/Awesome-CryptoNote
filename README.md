@@ -10,16 +10,15 @@ Many projects are derived from forks but none shall be listed if they're mere cl
 > Pull Request's are **always** very welcome but this isn't a place to "shill".
 
 -   [Awesome CryptoNote](https://github.com/lithe-project/awesome-cryptonote#awesome-cryptonote)
-
--   [Application](https://github.com/lithe-project/awesome-cryptonote#application)
--   [Blockchain](https://github.com/lithe-project/awesome-cryptonote#blockchain)
--   [Documentation](https://github.com/lithe-project/awesome-cryptonote#documentation)
--   [Graphical User Interface (GUI)](https://github.com/lithe-project/awesome-cryptonote#graphical-user-interfaces-gui)
--   [Hashing Algorithm (PoW)](https://github.com/lithe-project/awesome-cryptonote#hashing-algorithm)
--   [Mining Software](https://github.com/lithe-project/awesome-cryptonote#mining-software)
--   [Pool Software](https://github.com/lithe-project/awesome-cryptonote#pool-software)
--   [Web Wallet](https://github.com/lithe-project/awesome-cryptonote#web-wallet)
--   [Misc.](https://github.com/lithe-project/awesome-cryptonote#misc)
+    -   [Application](https://github.com/lithe-project/awesome-cryptonote#application)
+    -   [Blockchain](https://github.com/lithe-project/awesome-cryptonote#blockchain)
+    -   [Documentation](https://github.com/lithe-project/awesome-cryptonote#documentation)
+    -   [Graphical User Interface (GUI)](https://github.com/lithe-project/awesome-cryptonote#graphical-user-interfaces-gui)
+    -   [Hashing Algorithm (PoW)](https://github.com/lithe-project/awesome-cryptonote#hashing-algorithm)
+    -   [Mining Software](https://github.com/lithe-project/awesome-cryptonote#mining-software)
+    -   [Pool Software](https://github.com/lithe-project/awesome-cryptonote#pool-software)
+    -   [Web Wallet](https://github.com/lithe-project/awesome-cryptonote#web-wallet)
+    -   [Misc.](https://github.com/lithe-project/awesome-cryptonote#misc)
 
 #### Consider supporing our project!
 
@@ -43,7 +42,6 @@ Many projects are derived from forks but none shall be listed if they're mere cl
 
 ### Blockchain
 
-``
 _A list of promising projects to dig your rig into._
 
 -   [AmityCoin (XAM)](https://gitlab.com/amity-project/amity) - **CPU only**
