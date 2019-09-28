@@ -38,9 +38,14 @@ Many projects are derived from forks but none shall be listed if they're mere cl
 
 ### Application
 
+<<<<<<< HEAD
 _Applications built for certain blockchain projects._
 
 -   [Oscillate: CLI Block Explorer](https://github.com/pxckets/cli-blockexplorer)
+=======
+- [Oscillate: CLI Block Explorer](https://github.com/pxckets/cli-blockexplorer)
+- [Turtlecoin: Network stats bot](https://github.com/TheDevMinerTV/trtl-network-stats) - Discord Bot
+>>>>>>> 1ce934dd046a1fbe4f98c4e996c412be22c9ec13
 
 ### Blockchain
 
