@@ -16,6 +16,7 @@ Many projects are derived from forks but none shall be listed if they're mere cl
     -   [Graphical User Interface (GUI)](https://github.com/lithe-project/awesome-cryptonote#graphical-user-interfaces-gui)
     -   [Hashing Algorithm (PoW)](https://github.com/lithe-project/awesome-cryptonote#hashing-algorithm)
     -   [Mining Software](https://github.com/lithe-project/awesome-cryptonote#mining-software)
+    -   [Mobile Wallet](https://github.com/lithe-project/awesome-cryptonote#mobile-wallet)
     -   [Pool Software](https://github.com/lithe-project/awesome-cryptonote#pool-software)
     -   [Web Wallet](https://github.com/lithe-project/awesome-cryptonote#web-wallet)
     -   [Misc.](https://github.com/lithe-project/awesome-cryptonote#misc)
@@ -74,6 +75,7 @@ _"Gotta' have a nice looking wallet to store future assets"_
 -   [NibbleClassic: Leather GUI Wallet](https://github.com/NibbleClassic/NBXLeather-GUI-Wallet)
 -   [Monero: Monero GUI](https://github.com/monero-project/monero-gui)
 -   [TurtleCoin: Nest GUI](https://github.com/turtlecoin/turtle-wallet-go/)
+-   [TurtleCoin: Proton Wallet](https://github.com/turtlecoin/turtle-wallet-proton)
 -   [Wownero: Light Wallet](https://github.com/wownero/Wownero-Light-Wallet)
 
 * * *
@@ -101,11 +103,21 @@ _3rd party software to assist mining assets._
 
 -   [BLOC MultiCurrency GUI Miner](https://github.com/furiousteam/BLOC-GUI-Miner)
 -   [Scala GUI Miner](https://github.com/scala-network/GUI-miner)
+-   [Violet Miner](https://github.com/turtlecoin/violetminer)
 -   [Vulkan XMR Miner](https://github.com/enerc/VulkanXMRMiner)
 -   [XMR-Stak](https://github.com/fireice-uk/xmr-stak)
 -   [XMRig](https://github.com/xmrig/xmrig)
     -   [XMRig - Nvidia](https://github.com/xmrig/xmrig-nvidia)
     -   [XMRig - AMD](https://github.com/xmrig/xmrig-amd)
+    
+* * *
+
+### Mobile Wallet
+
+_Wallet software created for Android and/or iOS devices_
+
+-   [Monero: Monerujo](https://github.com/m2049r/xmrwallet) - [Google Play Store](https://play.google.com/store/apps/details?id=com.m2049r.xmrwallet)
+-   [TurtleCoin: TonChan](https://github.com/turtlecoin/turtlecoin-mobile-wallet)
 
 * * *
 
