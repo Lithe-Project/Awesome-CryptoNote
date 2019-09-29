@@ -41,6 +41,8 @@ Many projects are derived from forks but none shall be listed if they're mere cl
 -   [Oscillate: CLI Block Explorer](https://github.com/pxckets/cli-blockexplorer)
 -   [Turtlecoin: Network stats bot](https://github.com/TheDevMinerTV/trtl-network-stats) - Discord Bot
 
+* * *
+
 ### Blockchain
 
 _A list of promising projects to dig your rig into._
