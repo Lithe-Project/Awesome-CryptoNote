@@ -67,9 +67,7 @@ _Documentation pulled in from around the web._
 -   [Cryptonote: Whitepaper](https://cryptonote.org/whitepaper.pdf)
 -   [Monero: Anonymity Networks with Monero](https://github.com/monero-project/monero/blob/master/ANONYMITY_NETWORKS.md)
 -   [Monero: Levin Protocol](https://github.com/monero-project/monero/blob/master/LEVIN_PROTOCOL.md)
-
 -   [TurtleCoin: Daemon JSON RPC API](https://docs.turtlecoin.lol/developer/api/daemon-json-rpc-api)
-
 
 * * *
 
@@ -112,8 +110,8 @@ _3rd party software to assist mining assets._
 -   [Vulkan XMR Miner](https://github.com/enerc/VulkanXMRMiner)
 -   [XMR-Stak](https://github.com/fireice-uk/xmr-stak)
 -   [XMRig](https://github.com/xmrig/xmrig)
-    -   [XMRig - Nvidia](https://github.com/xmrig/xmrig-nvidia)
-    -   [XMRig - AMD](https://github.com/xmrig/xmrig-amd)
+-   [XMRig - Nvidia](https://github.com/xmrig/xmrig-nvidia)
+-   [XMRig - AMD](https://github.com/xmrig/xmrig-amd)
     
 * * *
 
@@ -149,9 +147,9 @@ _Access your assets anywhere._
 
 _Applications, games, resources and other things built and/or maintained by CryptoNote developers._
 
--   [DecentraChat](https://github.com/lithyriolu/decentrachat) - [LithyRiolu](https://github.com/lithyriolu) - [The Lithe Project™](https://github.com/lithe-project)
-
-- [TurtleCoin Javascript Utilities](https://utils.turtlecoin.dev)
-
+-   [DecentraChat](https://github.com/lithyriolu/decentrachat)
+-   [LithyRiolu](https://github.com/lithyriolu)
+-   [The Lithe Project™](https://github.com/lithe-project)
+-   [TurtleCoin Javascript Utilities](https://utils.turtlecoin.dev)
 
 * * *
