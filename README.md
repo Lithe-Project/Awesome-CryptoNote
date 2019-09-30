@@ -68,6 +68,8 @@ _Documentation pulled in from around the web._
 -   [Monero: Anonymity Networks with Monero](https://github.com/monero-project/monero/blob/master/ANONYMITY_NETWORKS.md)
 -   [Monero: Levin Protocol](https://github.com/monero-project/monero/blob/master/LEVIN_PROTOCOL.md)
 
+-   [TurtleCoin: Daemon JSON RPC API](https://docs.turtlecoin.lol/developer/api/daemon-json-rpc-api)
+
 * * *
 
 ### Graphical User Interfaces (GUI)
