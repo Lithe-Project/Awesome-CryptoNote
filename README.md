@@ -48,7 +48,7 @@ Many projects are derived from forks but none shall be listed if they're mere cl
 _A list of promising projects to dig your rig into._
 
 -   [AmityCoin (XAM)](https://gitlab.com/amity-project/amity) - **CPU only**
--   [ArQma (ARQ)](https://github.com/arqma/arqma)
+-   [ArQmA (ARQ)](https://github.com/arqma/arqma)
 -   [Loki (LOKI)](https://github.com/loki-project/loki)
 -   [Nerva (XNV)](https://bitbucket.org/nerva-project/nerva) - **CPU only**
 -   [Oscillate (OSL)](https://github.com/oscillate-coin/oscillate)
@@ -79,6 +79,8 @@ _"Gotta' have a nice looking wallet to store future assets"_
 -   [TurtleCoin: Nest GUI](https://github.com/turtlecoin/turtle-wallet-go/)
 -   [TurtleCoin: Proton Wallet](https://github.com/turtlecoin/turtle-wallet-proton)
 -   [Wownero: Light Wallet](https://github.com/wownero/Wownero-Light-Wallet)
+-   [ArQmA: Light Wallet](https://github.com/arqma/arqma-electron-wallet)
+-   [ArQmA: Arqma GUI](https://github.com/arqma/arqma-gui)
 
 * * *
 
@@ -120,6 +122,7 @@ _Wallet software created for Android and/or iOS devices_
 
 -   [Monero: Monerujo](https://github.com/m2049r/xmrwallet) - [Google Play Store](https://play.google.com/store/apps/details?id=com.m2049r.xmrwallet)
 -   [TurtleCoin: TonChan](https://github.com/turtlecoin/turtlecoin-mobile-wallet)
+-   [ArQmA: arqmaDroid](https://play.google.com/store/apps/details?id=com.arqma.Droid)
 
 * * *
 
@@ -139,6 +142,7 @@ _Access your assets anywhere._
 
 -   [Monero: MyMonero](https://github.com/mymonero) - [Link](https://wallet.mymonero.com/)
 -   [Masari: Web Wallet](https://github.com/masari-project/masari-webwallet) - [Link](https://www.masariwallet.com/)
+-   [ArQmA: myarqma](https://github.com/arqma/openmonero) - [Link](https://myarqma.com/)
 
 * * *
 
