@@ -70,6 +70,7 @@ _Documentation pulled in from around the web._
 
 -   [TurtleCoin: Daemon JSON RPC API](https://docs.turtlecoin.lol/developer/api/daemon-json-rpc-api)
 
+
 * * *
 
 ### Graphical User Interfaces (GUI)
@@ -149,5 +150,8 @@ _Access your assets anywhere._
 _Applications, games, resources and other things built and/or maintained by CryptoNote developers._
 
 -   [DecentraChat](https://github.com/lithyriolu/decentrachat) - [LithyRiolu](https://github.com/lithyriolu) - [The Lithe Project™](https://github.com/lithe-project)
+
+- [TurtleCoin Javascript Utilities](https://utils.turtlecoin.dev)
+
 
 * * *
