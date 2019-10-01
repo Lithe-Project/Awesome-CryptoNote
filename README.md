@@ -38,6 +38,8 @@ Many projects are derived from forks but none shall be listed if they're mere cl
 
 ### Application
 
+_Applications that receive information from a blockchain_
+
 -   [Oscillate: CLI Block Explorer](https://github.com/pxckets/cli-blockexplorer)
 -   [Turtlecoin: Network stats bot](https://github.com/TheDevMinerTV/trtl-network-stats) - Discord Bot
 
