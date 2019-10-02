@@ -11,8 +11,12 @@ Many projects are derived from forks but none shall be listed if they're mere cl
 
 -   [Awesome CryptoNote](https://github.com/lithe-project/awesome-cryptonote#awesome-cryptonote)
     -   [Application](https://github.com/lithe-project/awesome-cryptonote#application)
+        -   [CLI Applications](https://github.com/lithe-project/awesome-cryptonote#cli-applications)
+        -   [Discord Bots](https://github.com/lithe-project/awesome-cryptonote#discord-bots)
     -   [Blockchain](https://github.com/lithe-project/awesome-cryptonote#blockchain)
     -   [Documentation](https://github.com/lithe-project/awesome-cryptonote#documentation)
+        -   [Official Papers](https://github.com/lithe-project/awesome-cryptonote#official-papers)
+        -   [Remote Procedure Call (RPC) / Application Programming Interface (API) Documents](https://github.com/lithe-project/awesome-cryptonote#remote-procedure-call-rpc--application-programming-interface-api-documents)
     -   [Graphical User Interface (GUI)](https://github.com/lithe-project/awesome-cryptonote#graphical-user-interfaces-gui)
     -   [Hashing Algorithm (PoW)](https://github.com/lithe-project/awesome-cryptonote#hashing-algorithm)
     -   [Mining Software](https://github.com/lithe-project/awesome-cryptonote#mining-software)
@@ -38,8 +42,13 @@ Many projects are derived from forks but none shall be listed if they're mere cl
 
 ### Application
 
--   [Oscillate: CLI Block Explorer](https://github.com/pxckets/cli-blockexplorer)
--   [Turtlecoin: Network stats bot](https://github.com/TheDevMinerTV/trtl-network-stats) - Discord Bot
+_Applications that receive information from a blockchain_
+
+-   #### [CLI Applications](https://github.com/lithe-project/awesome-cryptonote#cli-applications)
+    -   [Oscillate: CLI Block Explorer](https://github.com/pxckets/cli-blockexplorer)
+-   #### [Discord Bots](https://github.com/lithe-project/awesome-cryptonote#discord-bots)
+    -   [Turtlecoin: Network stats bot](https://github.com/TheDevMinerTV/trtl-network-stats) - Discord Bot
+    -   [WrkzCoin: Tipbot (multi-currency)](https://github.com/wrkzcoin/TipBot) - Discord Bot
 
 * * *
 
@@ -62,11 +71,18 @@ _A list of promising projects to dig your rig into._
 
 _Documentation pulled in from around the web._
 
--   [CryptoNote+](https://eprint.iacr.org/2019/021.pdf)
--   [CryptoNote: Technology](https://cryptonote.org/inside)
--   [Cryptonote: Whitepaper](https://cryptonote.org/whitepaper.pdf)
--   [Monero: Anonymity Networks with Monero](https://github.com/monero-project/monero/blob/master/ANONYMITY_NETWORKS.md)
--   [Monero: Levin Protocol](https://github.com/monero-project/monero/blob/master/LEVIN_PROTOCOL.md)
+-   #### [Official Papers](https://github.com/lithe-project/awesome-cryptonote#official-papers)
+    -   [CryptoNote+](https://eprint.iacr.org/2019/021.pdf)
+    -   [CryptoNote: Technology](https://cryptonote.org/inside)
+    -   [Cryptonote: Whitepaper](https://cryptonote.org/whitepaper.pdf)
+    -   [Monero: Anonymity Networks with Monero](https://github.com/monero-project/monero/blob/master/ANONYMITY_NETWORKS.md)
+    -   [Monero: Levin Protocol](https://github.com/monero-project/monero/blob/master/LEVIN_PROTOCOL.md)
+-   #### [Remote Procedure Call (RPC) / Application Programming Interface (API) Documents](https://github.com/lithyriolu/awesome-cryptonote#remote-procedure-call-rpc--application-programming-interface-api-documents)
+    -   [Monero: Daemon](https://web.getmonero.org/resources/developer-guides/daemon-rpc.html)
+    -   [Monero: Wallet RPC](https://web.getmonero.org/resources/developer-guides/wallet-rpc.html)
+    -   [TurtleCoin: TurtleCoind](https://docs.turtlecoin.lol/developer/api/Daemon-JSON-RPC-API)
+    -   [TurtleCoin: turtle-service](https://docs.turtlecoin.lol/developer/api/Legacy-Wallet-RPC-API)
+    -   [TurtleCoin: wallet-api](https://turtlecoin.github.io/wallet-api-docs/)
 
 * * *
 
@@ -103,7 +119,7 @@ _Algorithms to determine how a block is hashed._
 
 _3rd party software to assist mining assets._
 
--   [BLOC MultiCurrency GUI Miner](https://github.com/furiousteam/BLOC-GUI-Miner)
+-   [BLOC GUI Miner (multi-currency)](https://github.com/furiousteam/BLOC-GUI-Miner)
 -   [Scala GUI Miner](https://github.com/scala-network/GUI-miner)
 -   [Violet Miner](https://github.com/turtlecoin/violetminer)
 -   [Vulkan XMR Miner](https://github.com/enerc/VulkanXMRMiner)
@@ -118,6 +134,7 @@ _3rd party software to assist mining assets._
 
 _Wallet software created for Android and/or iOS devices_
 
+-   [ArQmA: arqmaDroid](https://play.google.com/store/apps/details?id=com.arqma.Droid)
 -   [Monero: Monerujo](https://github.com/m2049r/xmrwallet) - [Google Play Store](https://play.google.com/store/apps/details?id=com.m2049r.xmrwallet)
 -   [TurtleCoin: TonChan](https://github.com/turtlecoin/turtlecoin-mobile-wallet)
 
@@ -147,5 +164,6 @@ _Access your assets anywhere._
 _Applications, games, resources and other things built and/or maintained by CryptoNote developers._
 
 -   [DecentraChat](https://github.com/lithyriolu/decentrachat) - [LithyRiolu](https://github.com/lithyriolu) - [The Lithe Project™](https://github.com/lithe-project)
+-   [TurtleCoin Javascript Utilities](https://utils.turtlecoin.dev) - [TurtleCoin](https://github.com/turtlecoin/)
 
 * * *
