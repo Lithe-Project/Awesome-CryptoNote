@@ -134,6 +134,7 @@ _3rd party software to assist mining assets._
 
 _Wallet software created for Android and/or iOS devices_
 
+-   [ArQmA: arqmaDroid](https://play.google.com/store/apps/details?id=com.arqma.Droid)
 -   [Monero: Monerujo](https://github.com/m2049r/xmrwallet) - [Google Play Store](https://play.google.com/store/apps/details?id=com.m2049r.xmrwallet)
 -   [TurtleCoin: TonChan](https://github.com/turtlecoin/turtlecoin-mobile-wallet)
 
@@ -163,5 +164,6 @@ _Access your assets anywhere._
 _Applications, games, resources and other things built and/or maintained by CryptoNote developers._
 
 -   [DecentraChat](https://github.com/lithyriolu/decentrachat) - [LithyRiolu](https://github.com/lithyriolu) - [The Lithe Project™](https://github.com/lithe-project)
+-   [TurtleCoin Javascript Utilities](https://utils.turtlecoin.dev) - [TurtleCoin](https://github.com/turtlecoin/)
 
 * * *
