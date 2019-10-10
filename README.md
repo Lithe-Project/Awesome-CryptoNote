@@ -27,7 +27,7 @@ Many projects are derived from forks but none shall be listed if they're mere cl
 
 #### Consider supporing our project!
 
-<img src="https://c5.patreon.com/external/logo/become_a_patron_button.png">
+<a href="https://www.patreon.com/thelitheproject"><img src="https://c5.patreon.com/external/logo/become_a_patron_button.png"></a>
 
     AmityCoin      (XAM) - amitYjRzkZMNcAGji6BoRDiDax71h2pJrfyQizXnttUHKxNxqGJDZWtESaabbSjRQD5WhyDey4qn9XZpFcAgxxTg5mtJTF9jTM
     ArQma          (ARQ) - ar2mqMg2SUYVUeV9vzSQuyRurKUKrfVbzWMd5AArDAEy381zMxqHAnq7e6DGLjMQwS1zoU2utuW83SFYJmYTS4sY2Ams1V6nv
@@ -113,6 +113,7 @@ _Algorithms to manipulate the difficulty of a block in attempts to achieve stabl
 
 _Algorithms to determine how a block is hashed._
 
+-   [CryptoNightR](https://github.com/SChernykh/CryptonightR)
 -   [Random X](https://github.com/tevador/RandomX)
 
 * * *
