@@ -35,7 +35,7 @@ Many projects are derived from forks but none shall be listed if they're mere cl
     Doge          (DOGE) - DK2TjjQDxjsQkFDGtAe5VDMM4ZN5wnDB6V
     Lethean       (LTHN) - NaWe5B5NqvZ3TV2Mj1pxYtTgrnTBwQDMDNtqVzMR6Xa5ejxu6hbi6KULHTqd732ebc5qTHvKXonokghUBd3pjLa8czovfrW1G561vPanSPRh
     Monero         (XMR) - 8BycUyGk8GuDYNnAbAHhoxQBLecUJQbExbSX21Z9DoaB5jcEVtNAY7d4puNnB6psJ5SptRw42r4v6fp1yFHTUWaW9RaQDvb
-    NibbleClassic  (NBX) - Nib1fzFuBrQeumAJCf5ntj2K6jWQJnzZTU2Bz8ejSu1T8QzowcQWoe5a9LCLPqnfcqfSMXTdKWULfgwZxBioX4yi5p4UDjF29x
+    NibbleClassic (NBXC) - Nib1fzFuBrQeumAJCf5ntj2K6jWQJnzZTU2Bz8ejSu1T8QzowcQWoe5a9LCLPqnfcqfSMXTdKWULfgwZxBioX4yi5p4UDjF29x
     TurtleCoin    (TRTL) - TRTLuzcHQu2Z3QotVB4C7yihoN4Kw2fhzMwF2DWVVK2AhGWaBZhsUJhWsG7z6BYYoqgyiQVHHJeRiU78UmwLcfqPTY1MBS7bjzb
 
 * * *
@@ -62,7 +62,7 @@ _A list of promising projects to dig your rig into._
 -   [Loki (LOKI)](https://github.com/loki-project/loki)
 -   [Nerva (XNV)](https://bitbucket.org/nerva-project/nerva) - **CPU only**
 -   [Oscillate (OSL)](https://github.com/oscillate-coin/oscillate)
--   [NibbleClassic (NBX)](https://github.com/NibbleClassic/NibbleClassic-Core-CLI)
+-   [NibbleClassic (NBXC)](https://github.com/NibbleClassic/NibbleClassic-Core-CLI)
 -   [TurtleCoin (TRTL)](https://github.com/turtlecoin/turtlecoin/)
 -   [WowNero (WOW)](https://github.com/wownero/wownero)
 -   [WRKZCoin (WRKZ)](https://github.com/wrkzcoin)
