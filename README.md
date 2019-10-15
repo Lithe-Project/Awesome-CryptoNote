@@ -34,6 +34,7 @@ Many projects are derived from forks but none shall be listed if they're mere cl
     Bitcoin        (BTC) - 39xSwR27rAEU1KDPuYL7yQY2TJFG2HFBn4
     Doge          (DOGE) - DK2TjjQDxjsQkFDGtAe5VDMM4ZN5wnDB6V
     Lethean       (LTHN) - NaWe5B5NqvZ3TV2Mj1pxYtTgrnTBwQDMDNtqVzMR6Xa5ejxu6hbi6KULHTqd732ebc5qTHvKXonokghUBd3pjLa8czovfrW1G561vPanSPRh
+    Masari         (MSR) - 5t5mEm254JNJ9HqRjY9vCiTE8aZALHX3v8TqhyQ3TTF9VHKZQXkRYjPDweT9kK4rJw7dDLtZXGjav2z9y24vXCdRc7v1f1DDSyWL8fAri8
     Monero         (XMR) - 8BycUyGk8GuDYNnAbAHhoxQBLecUJQbExbSX21Z9DoaB5jcEVtNAY7d4puNnB6psJ5SptRw42r4v6fp1yFHTUWaW9RaQDvb
     NibbleClassic (NBXC) - Nib1fzFuBrQeumAJCf5ntj2K6jWQJnzZTU2Bz8ejSu1T8QzowcQWoe5a9LCLPqnfcqfSMXTdKWULfgwZxBioX4yi5p4UDjF29x
     TurtleCoin    (TRTL) - TRTLuzcHQu2Z3QotVB4C7yihoN4Kw2fhzMwF2DWVVK2AhGWaBZhsUJhWsG7z6BYYoqgyiQVHHJeRiU78UmwLcfqPTY1MBS7bjzb
@@ -61,6 +62,7 @@ _A list of promising projects to dig your rig into._
 -   [DeroGold (DEGO)](https://github.com/derogold)
 -   [Loki (LOKI)](https://github.com/loki-project/loki)
 -   [Nerva (XNV)](https://bitbucket.org/nerva-project/nerva) - **CPU only**
+-   [Masari (MSR](https://github.com/masari-project/masari)
 -   [Oscillate (OSL)](https://github.com/oscillate-coin/oscillate)
 -   [NibbleClassic (NBXC)](https://github.com/NibbleClassic/NibbleClassic-Core-CLI)
 -   [TurtleCoin (TRTL)](https://github.com/turtlecoin/turtlecoin/)
