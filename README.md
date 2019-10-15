@@ -80,6 +80,7 @@ _Documentation pulled in from around the web._
     -   [CryptoNote: Technology](https://cryptonote.org/inside)
     -   [Cryptonote: Whitepaper](https://cryptonote.org/whitepaper.pdf)
     -   [Monero: Anonymity Networks with Monero](https://github.com/monero-project/monero/blob/master/ANONYMITY_NETWORKS.md)
+    -   [Monero: Compact Linkable Ring Signatures and Applications](https://eprint.iacr.org/2019/654)
     -   [Monero: Levin Protocol](https://github.com/monero-project/monero/blob/master/LEVIN_PROTOCOL.md)
 -   #### [Remote Procedure Call (RPC) / Application Programming Interface (API) Documents](https://github.com/lithyriolu/awesome-cryptonote#remote-procedure-call-rpc--application-programming-interface-api-documents)
     -   [Monero: Daemon](https://web.getmonero.org/resources/developer-guides/daemon-rpc.html)
