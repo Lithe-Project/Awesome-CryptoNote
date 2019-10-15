@@ -60,11 +60,11 @@ _A list of promising projects to dig your rig into._
 -   [AmityCoin (XAM)](https://gitlab.com/amity-project/amity) - **CPU only**
 -   [ArQma (ARQ)](https://github.com/arqma/arqma)
 -   [DeroGold (DEGO)](https://github.com/derogold)
--   [Loki (LOKI)](https://github.com/loki-project/loki)
+-   [Loki (LOKI)](https://github.com/loki-project/)
+-   [Masari (MSR)](https://github.com/masari-project/masari)
 -   [Nerva (XNV)](https://bitbucket.org/nerva-project/nerva) - **CPU only**
--   [Masari (MSR](https://github.com/masari-project/masari)
--   [Oscillate (OSL)](https://github.com/oscillate-coin/oscillate)
 -   [NibbleClassic (NBXC)](https://github.com/NibbleClassic/NibbleClassic-Core-CLI)
+-   [Oscillate (OSL)](https://github.com/oscillate-coin/oscillate)
 -   [TurtleCoin (TRTL)](https://github.com/turtlecoin/turtlecoin/)
 -   [WowNero (WOW)](https://github.com/wownero/wownero)
 -   [WRKZCoin (WRKZ)](https://github.com/wrkzcoin)
