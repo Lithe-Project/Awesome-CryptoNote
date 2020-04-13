@@ -59,6 +59,7 @@ _A list of promising projects to dig your rig into._
 
 -   [AmityCoin (XAM)](https://gitlab.com/amity-project/amity) - **CPU only**
 -   [ArQma (ARQ)](https://github.com/arqma/arqma)
+-   [Conceal Network (CCX)](https://github.com/ConcealNetwork/conceal-core)
 -   [DeroGold (DEGO)](https://github.com/derogold)
 -   [Loki (LOKI)](https://github.com/loki-project/)
 -   [Masari (MSR)](https://github.com/masari-project/masari)
