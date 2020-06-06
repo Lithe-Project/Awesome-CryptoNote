@@ -65,7 +65,6 @@ _A list of promising projects to dig your rig into._
 -   [Masari (MSR)](https://github.com/masari-project/masari)
 -   [Nerva (XNV)](https://bitbucket.org/nerva-project/nerva) - **CPU only**
 -   [NibbleClassic (NBXC)](https://github.com/NibbleClassic/NibbleClassic-Core-CLI)
--   [Oscillate (OSL)](https://github.com/oscillate-coin/oscillate)
 -   [TurtleCoin (TRTL)](https://github.com/turtlecoin/turtlecoin/)
 -   [WowNero (WOW)](https://github.com/wownero/wownero)
 -   [WRKZCoin (WRKZ)](https://github.com/wrkzcoin)
@@ -74,7 +73,7 @@ _A list of promising projects to dig your rig into._
 
 ### Documentation
 
-_Documentation pulled in from around the web._
+_Documentation and papers pulled in from around the web._
 
 -   #### [Official Papers](https://github.com/lithe-project/awesome-cryptonote#official-papers)
     -   [CryptoNote+](https://eprint.iacr.org/2019/021.pdf)
@@ -96,6 +95,7 @@ _Documentation pulled in from around the web._
 
 _"Gotta' have a nice looking wallet to store future assets"_
 
+-   [Conceal Desktop](https://github.com/ConcealNetwork/conceal-desktop)
 -   [NibbleClassic: Leather GUI Wallet](https://github.com/NibbleClassic/NBXLeather-GUI-Wallet)
 -   [Monero: Monero GUI](https://github.com/monero-project/monero-gui)
 -   [TurtleCoin: Nest GUI](https://github.com/turtlecoin/turtle-wallet-go/)
@@ -142,6 +142,7 @@ _3rd party software to assist mining assets._
 _Wallet software created for Android and/or iOS devices_
 
 -   [ArQmA: arqmaDroid](https://play.google.com/store/apps/details?id=com.arqma.Droid)
+-   [Conceal Mobile](https://github.com/ConcealNetwork/conceal-mobile)
 -   [Monero: Monerujo](https://github.com/m2049r/xmrwallet) - [Google Play Store](https://play.google.com/store/apps/details?id=com.m2049r.xmrwallet)
 -   [TurtleCoin: TonChan](https://github.com/turtlecoin/turtlecoin-mobile-wallet)
 
@@ -161,6 +162,7 @@ _Base templates to guide you in creating a pool._
 
 _Access your assets anywhere._
 
+-   [Conceal.Cloud](https://github.com/ConcealNetwork/conceal-cloud) - [Link](https://conceal.cloud/)
 -   [Monero: MyMonero](https://github.com/mymonero) - [Link](https://wallet.mymonero.com/)
 -   [Masari: Web Wallet](https://github.com/masari-project/masari-webwallet) - [Link](https://www.masariwallet.com/)
 
